@@ -8,12 +8,12 @@
     "ad_native" : "admob",
     "openapp" : "admob",
     "back_up" : "none",
-    "ad_interval" : 8 ,
+    "ad_interval" : 3 ,
     
     "AdMob": {
-      "banner": "ca-app-pub-1788256487675958/6220858298",
-      "interstitial": "ca-app-pub-1788256487675958/4907776629",
-      "native": "ca-app-pub-1788256487675958/4245431643",
+      "banner": "ca-app-pub-1788256487675958/2332934775",
+      "interstitial": "ca-app-pub-1788256487675958/1019853100",
+      "native": "ca-app-pub-1788256487675958/6384954335",
       "appopen" : "ca-app-pub-3940256099942544/3419835294"
     },
     
