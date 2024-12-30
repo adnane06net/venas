@@ -1,4 +1,8 @@
-[
+{
+  "ads": {
+    "rewarded": "ca-app-pub-3940256099942544/5224354917"
+  },
+    "songs": [
     {
         "title": "أغنية 1",
         "artist": "فنان 1",
@@ -15,3 +19,4 @@
         "url": "https://tmazik.com/music/mp3/Music%20Rai/Sherine%20Avec%20Houari%20Dauphin%20T3adbini/Sherine%20Avec%20Houari%20Dauphin%20-%20T3adbini.mp3"
     }
 ]
+}
