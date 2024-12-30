@@ -15,8 +15,13 @@
     },
     {
         "title": "أغنية 3",
-        "artist": "3",
+        "artist": "3 فنان",
         "url": "https://tmazik.com/music/mp3/Music%20Rai/Sherine%20Avec%20Houari%20Dauphin%20T3adbini/Sherine%20Avec%20Houari%20Dauphin%20-%20T3adbini.mp3"
+    },
+        {
+        "title": "أغنية 4",
+        "artist": "4 فنان",
+        "url": "https://tmazik.com/music/mp3/Music%20Rai/Compilation%20Remix%20Rai%202024/01.%20Chaimae%20Rakkas%20-%20Mafekartich%20Fia.mp3"
     }
   ]
 }
