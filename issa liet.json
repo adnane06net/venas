@@ -4,6 +4,7 @@
     "ad_banner": "admob",
     "ad_inter": "admob",
     "ad_native": "admob",
+    "ad_rewarded": "admob",
     "openapp": "admob",
     "back_up": "none",
     "ad_interval": 3,
@@ -12,7 +13,7 @@
       "interstitial": "ca-app-pub-1788256487675958/5962489334",
       "native": "ca-app-pub-1788256487675958/1030630819",
       "appopen": "ca-app-pub-3940256099942544/3419835294",
-      "reward": "ca-app-pub-1788256487675958/8951123485"
+         "adMobRewardedId": "ca-app-pub-1788256487675958/8951123485"
     },
     "ironSource": {
       "app_key": "12d657f25"
