@@ -1,0 +1,82 @@
+{
+  "ads": {
+    "rewarded": "ca-app-pub-1788256487675958/2496831128"
+  },
+  "songs": [
+     {
+        "title": "أغنية 1",
+        "artist": "فنان 1",
+        "url": "https://tmazik.com/music/mp3/Music%20Marocain/Weld%20Aicha%203omri%20Ma3lich/WELD%20AICHA%20-%203OMRI%20MA3LICH.mp3"
+    },
+    {
+        "title": "أغنية 2",
+        "artist": "فنان 2",
+        "url": "https://tmazik.com/music/mp3/Music%20Rai/Ayoub%20Anbaoui%20Avec%20Lbenj%20Abala%20Ya%20Bali/Ayoub%20Anbaoui%20Avec%20Lbenj%20-%20Abala%20Ya%20Bali.mp3"
+    },
+    {
+        "title": "أغنية 3",
+        "artist": "3 فنان",
+        "url": "https://tmazik.com/music/mp3/Music%20Rai/Sherine%20Avec%20Houari%20Dauphin%20T3adbini/Sherine%20Avec%20Houari%20Dauphin%20-%20T3adbini.mp3"
+    },
+        {
+        "title": "Chaabi 3alwa Nayda Chti7 Cha3bi",
+        "artist": "Kachkoul Chaabi Nayda",
+        "url": "https://tmazik.com/music/mp3/Music%20Cha3bi/Kachkoul%20Chaabi%20Nayda/Chaabi%203alwa%20Nayda%20Chti7%20Cha3bi%20Ambiance%20Marocaine%20-%20%D8%B4%D8%B9%D8%A8%D9%8A%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D8%A9%20%D9%86%D8%A7%D9%8A%D8%B6%D8%A9%20%D9%84%D8%AC%D9%85%D9%8A%D8%B9%20%D8%A7%D9%84%D8%A3%D8%B9%D8%B1%D8%A7%D8%B3%20%D9%88%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D8%A7%D8%AD.mp3"
+    },
+            {
+        "title": "Chikhate Chaabi",
+        "artist": "cha3bi",
+        "url": "https://tmazik.com/music/mp3/Music%20Cha3bi/Chikhate%20Chaabi%20Maroc/Chaabi%20Marocaine%20nayda%20%D8%B4%D8%B9%D8%A8%D9%8A%20%D8%AF%D9%8A%D8%A7%D9%84%20%D8%A7%D9%84%D8%B4%D8%B7%D9%8A%D8%AD%20%D9%88%D8%A7%D9%84%D9%86%D8%B4%D8%A7%D8%B7%20%D9%84%D8%AC%D9%85%D9%8A%D8%B9%20%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D8%A7%D8%AD%20%D9%88%D8%A7%D9%84%D8%A3%D8%B9%D8%B1%D8%A7%D8%B3.mp3"
+    },
+                {
+        "title": "Chaabi Marocain Cha3bi Chti7",
+        "artist": "cha3bi",
+        "url": "https://tmazik.com/music/mp3/Music%20Cha3bi/Chaabi%20Marocain%20Cha3bi%20Chti7/Chaabi%20Marocaine%20Ambiance.mp3"
+    },
+                    {
+        "title": "Cha3bi Nayda Top",
+        "artist": "cha3bi",
+        "url": "https://tmazik.com/music/mp3/Music%20Cha3bi/Cha3bi%20Nayda%20Top/Cha3bi%20Nayda%20Top%20%D8%B4%D8%B9%D8%A8%D9%8A%20%D9%86%D8%A7%D9%8A%D8%B6%D8%A9%20%D9%84%D8%AC%D9%85%D9%8A%D8%B9%20%D8%A7%D9%84%D8%A3%D8%B9%D8%B1%D8%A7%D8%B3%20%D9%88%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D8%A7%D8%AD.mp3"
+    },
+                    {
+        "title": "Chaabi Swaken Nayda",
+        "artist": "cha3bi",
+        "url": "https://tmazik.com/music/mp3/Music%20Cha3bi/Chaabi%20Swaken%20Nayda/Swaken%20Chaabi%20%D8%B4%D8%B9%D8%A8%D9%8A%20%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%20%D9%86%D8%A7%D9%8A%D8%B8%D8%A9.mp3"
+    },
+                    {
+        "title": "Cha3bi Chakhda Jarra",
+        "artist": "cha3bi",
+        "url": "https://tmazik.com/music/mp3/Music%20Cha3bi/Cha3bi%20Chakhda%20Jarra/%D8%B4%D8%B9%D8%A8%D9%8A%20%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%20%D9%86%D8%A7%D9%8A%D8%B6%D8%A9%20%D8%AF%D9%8A%D8%A7%D9%84%20%D8%A8%D8%B5%D8%AD%20%20%D8%B4%D8%B7%D9%8A%D8%AD%20%D9%88%D8%B1%D8%AF%D9%8A%D8%AD.mp3"
+    },
+                    {
+        "title": "Chaabi Maroc Lhayt",
+        "artist": "cha3bi",
+        "url": "https://tmazik.com/music/mp3/Music%20Cha3bi/Chaabi%20Maroc%20Lhayt/%D8%A7%D9%84%D9%87%D9%8A%D8%AA%20%D8%B5%D9%88%D8%A7%D9%85%D8%AA%20%20%D8%AE%D8%B7%D9%8A%D8%B1%20%D9%84%D9%8A%20%D8%A7%D9%84%D8%A7%D8%B9%D8%B1%D8%A7%D8%B3%20%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9.mp3"
+    },
+                    {
+        "title": "Cha3bi Chti7 Nayda",
+        "artist": "cha3bi",
+        "url": "https://tmazik.com/music/mp3/Music%20Cha3bi/Cha3bi%20Chti7%20Nayda%202024/Chaabi%20Nayda%20Chti7%20Cha3bi%20Ambiance%20Marocaine%20-%20%D8%B4%D8%B9%D8%A8%D9%8A%20%D9%86%D8%A7%D9%8A%D8%B6%D8%A9%20%D8%AC%D9%85%D9%8A%D8%B9%20%D8%A7%D9%84%D8%A3%D8%B9%D8%B1%D8%A7%D8%B3%20%D9%88%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D8%A7%D8%AD.mp3"
+    },
+                       {
+        "title": "Cha3bi Top Maroc",
+        "artist": "cha3bi",
+        "url": "https://tmazik.com/music/mp3/Music%20Cha3bi/Cha3bi%20Top%20Maroc/Chaabi%20Nayda%20Chti7%20Cha3bi%20Ambiance%20Mariage%20Marocaine%20-%20%D8%B4%D8%B9%D8%A8%D9%8A%20%D9%86%D8%A7%D9%8A%D8%B6%D8%A9%20%D9%84%D8%AC%D9%85%D9%8A%D8%B9%20%D8%A7%D9%84%D8%A3%D8%B9%D8%B1%D8%A7%D8%B3%20%D9%88%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D8%A7%D8%AD.mp3"
+    },
+                       {
+        "title": "Zaouia Swaken Ambiance",
+        "artist": "Said Senhaji",
+        "url": "https://tmazik.com/music/mp3/Music%20Cha3bi/Said%20Senhaji%202024%20Zaouia%20Swaken/01.%20Said%20Senhaji%20-%20%20Zaouia%20Swaken.mp3"
+    },
+                           {
+        "title": "Raki Darti Source",
+        "artist": "Kamal Abdi",
+        "url": "https://tmazik.com/music/mp3/Music%20Cha3bi/Kamal%20Abdi%202024%20Raki%20Darti%20Source/01.%20Kamal%20Abdi%20-%20Raki%20Darti%20Source.mp3"
+    },
+                {
+        "title": "أغنية 6",
+        "artist": "6 فنان",
+        "url": "https://tmazik.com/music/mp3/Music%20Rai/Cheb%20Azzedine%20Ft%20Cheb%20Adjel%20Datk%20Lmot/Cheb%20Azzedine%20Ft%20Cheb%20Adjel%20-%20Datk%20Lmot.mp3"
+    }
+  ]
+}
