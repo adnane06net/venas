@@ -10,9 +10,9 @@
     "ad_interval": 3,
     "AdMob": {
       "banner": "ca-app-pub-1788256487675958/6998605924",
-      "interstitial": "ca-app-pub-1788256487675958/3136597865",
-      "native": "ca-app-pub-1788256487675958/7977845097",
-      "appopen": "ca-app-pub-1788256487675958/9374703154",
+      "interstitial": "ca-app-pub-3060567458459311/6583281997",
+      "native": "ca-app-pub-3060567458459311/6415761036",
+      "appopen": "ca-app-pub-3060567458459311/7840523347",
          "adMobRewardedId": "ca-app-pub-1788256487675958/6504997235"
     },
     "ironSource": {
@@ -44,4 +44,5 @@
     }
   }
 }
+
 
